@@ -1,0 +1,6 @@
+C:\Users\Ilian Stefanov\Desktop\SoftUni\Level 1 (Fundamental September)\C#\Exam Problems\ExamProblems\03.RageQuit\bin\Debug\03.RageQuit.exe.config
+C:\Users\Ilian Stefanov\Desktop\SoftUni\Level 1 (Fundamental September)\C#\Exam Problems\ExamProblems\03.RageQuit\bin\Debug\03.RageQuit.exe
+C:\Users\Ilian Stefanov\Desktop\SoftUni\Level 1 (Fundamental September)\C#\Exam Problems\ExamProblems\03.RageQuit\bin\Debug\03.RageQuit.pdb
+C:\Users\Ilian Stefanov\Desktop\SoftUni\Level 1 (Fundamental September)\C#\Exam Problems\ExamProblems\03.RageQuit\obj\Debug\03.RageQuit.csprojResolveAssemblyReference.cache
+C:\Users\Ilian Stefanov\Desktop\SoftUni\Level 1 (Fundamental September)\C#\Exam Problems\ExamProblems\03.RageQuit\obj\Debug\03.RageQuit.exe
+C:\Users\Ilian Stefanov\Desktop\SoftUni\Level 1 (Fundamental September)\C#\Exam Problems\ExamProblems\03.RageQuit\obj\Debug\03.RageQuit.pdb

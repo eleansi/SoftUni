@@ -1,0 +1,6 @@
+C:\Users\Ilian Stefanov\Desktop\SoftUni\Level 1 (Fundamental September)\C#\Exam Problems\ExamProblems\02.ArraySlider\bin\Debug\02.ArraySlider.exe.config
+C:\Users\Ilian Stefanov\Desktop\SoftUni\Level 1 (Fundamental September)\C#\Exam Problems\ExamProblems\02.ArraySlider\bin\Debug\02.ArraySlider.exe
+C:\Users\Ilian Stefanov\Desktop\SoftUni\Level 1 (Fundamental September)\C#\Exam Problems\ExamProblems\02.ArraySlider\bin\Debug\02.ArraySlider.pdb
+C:\Users\Ilian Stefanov\Desktop\SoftUni\Level 1 (Fundamental September)\C#\Exam Problems\ExamProblems\02.ArraySlider\obj\Debug\02.ArraySlider.csprojResolveAssemblyReference.cache
+C:\Users\Ilian Stefanov\Desktop\SoftUni\Level 1 (Fundamental September)\C#\Exam Problems\ExamProblems\02.ArraySlider\obj\Debug\02.ArraySlider.exe
+C:\Users\Ilian Stefanov\Desktop\SoftUni\Level 1 (Fundamental September)\C#\Exam Problems\ExamProblems\02.ArraySlider\obj\Debug\02.ArraySlider.pdb

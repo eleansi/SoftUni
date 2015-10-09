@@ -1,0 +1,6 @@
+C:\Users\Ilian Stefanov\Desktop\SoftUni\Level 1 (Fundamental September)\C#\Exam Problems\ExamProblems\02.TargetPractice\bin\Debug\02.TargetPractice.exe.config
+C:\Users\Ilian Stefanov\Desktop\SoftUni\Level 1 (Fundamental September)\C#\Exam Problems\ExamProblems\02.TargetPractice\obj\Debug\02.TargetPractice.csprojResolveAssemblyReference.cache
+C:\Users\Ilian Stefanov\Desktop\SoftUni\Level 1 (Fundamental September)\C#\Exam Problems\ExamProblems\02.TargetPractice\bin\Debug\02.TargetPractice.exe
+C:\Users\Ilian Stefanov\Desktop\SoftUni\Level 1 (Fundamental September)\C#\Exam Problems\ExamProblems\02.TargetPractice\bin\Debug\02.TargetPractice.pdb
+C:\Users\Ilian Stefanov\Desktop\SoftUni\Level 1 (Fundamental September)\C#\Exam Problems\ExamProblems\02.TargetPractice\obj\Debug\02.TargetPractice.exe
+C:\Users\Ilian Stefanov\Desktop\SoftUni\Level 1 (Fundamental September)\C#\Exam Problems\ExamProblems\02.TargetPractice\obj\Debug\02.TargetPractice.pdb

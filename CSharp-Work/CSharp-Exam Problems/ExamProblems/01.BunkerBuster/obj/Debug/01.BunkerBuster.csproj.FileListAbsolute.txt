@@ -1,0 +1,9 @@
+C:\Users\Ilian Stefanov\Desktop\SoftUni\Level 1 (Fundamental September)\C#\Exam Problems\01.BunkerBuster\ExamProblems\01.BunkerBuster\bin\Debug\01.BunkerBuster.exe.config
+C:\Users\Ilian Stefanov\Desktop\SoftUni\Level 1 (Fundamental September)\C#\Exam Problems\01.BunkerBuster\ExamProblems\01.BunkerBuster\bin\Debug\01.BunkerBuster.exe
+C:\Users\Ilian Stefanov\Desktop\SoftUni\Level 1 (Fundamental September)\C#\Exam Problems\01.BunkerBuster\ExamProblems\01.BunkerBuster\bin\Debug\01.BunkerBuster.pdb
+C:\Users\Ilian Stefanov\Desktop\SoftUni\Level 1 (Fundamental September)\C#\Exam Problems\01.BunkerBuster\ExamProblems\01.BunkerBuster\obj\Debug\01.BunkerBuster.csprojResolveAssemblyReference.cache
+C:\Users\Ilian Stefanov\Desktop\SoftUni\Level 1 (Fundamental September)\C#\Exam Problems\01.BunkerBuster\ExamProblems\01.BunkerBuster\obj\Debug\01.BunkerBuster.exe
+C:\Users\Ilian Stefanov\Desktop\SoftUni\Level 1 (Fundamental September)\C#\Exam Problems\01.BunkerBuster\ExamProblems\01.BunkerBuster\obj\Debug\01.BunkerBuster.pdb
+C:\Users\Ilian Stefanov\Desktop\SoftUni\Level 1 (Fundamental September)\C#\Exam Problems\ExamProblems\01.BunkerBuster\bin\Debug\01.BunkerBuster.exe.config
+C:\Users\Ilian Stefanov\Desktop\SoftUni\Level 1 (Fundamental September)\C#\Exam Problems\ExamProblems\01.BunkerBuster\obj\Debug\01.BunkerBuster.exe
+C:\Users\Ilian Stefanov\Desktop\SoftUni\Level 1 (Fundamental September)\C#\Exam Problems\ExamProblems\01.BunkerBuster\obj\Debug\01.BunkerBuster.pdb

@@ -1,0 +1,6 @@
+C:\Users\Ilian Stefanov\Desktop\SoftUni\Level 1 (Fundamental September)\C#\Exam Problems\ExamProblems\04.OlimpycsAreComming\bin\Debug\04.OlimpycsAreComming.exe.config
+C:\Users\Ilian Stefanov\Desktop\SoftUni\Level 1 (Fundamental September)\C#\Exam Problems\ExamProblems\04.OlimpycsAreComming\bin\Debug\04.OlimpycsAreComming.exe
+C:\Users\Ilian Stefanov\Desktop\SoftUni\Level 1 (Fundamental September)\C#\Exam Problems\ExamProblems\04.OlimpycsAreComming\bin\Debug\04.OlimpycsAreComming.pdb
+C:\Users\Ilian Stefanov\Desktop\SoftUni\Level 1 (Fundamental September)\C#\Exam Problems\ExamProblems\04.OlimpycsAreComming\obj\Debug\04.OlimpycsAreComming.csprojResolveAssemblyReference.cache
+C:\Users\Ilian Stefanov\Desktop\SoftUni\Level 1 (Fundamental September)\C#\Exam Problems\ExamProblems\04.OlimpycsAreComming\obj\Debug\04.OlimpycsAreComming.exe
+C:\Users\Ilian Stefanov\Desktop\SoftUni\Level 1 (Fundamental September)\C#\Exam Problems\ExamProblems\04.OlimpycsAreComming\obj\Debug\04.OlimpycsAreComming.pdb
