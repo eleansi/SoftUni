@@ -1,0 +1,864 @@
+<zuiprezi>
+  <version>7</version>
+  <zui-table>
+    <settings>
+      
+      <autoplay>
+        
+        <delay>4000</delay>
+        
+      </autoplay>
+      
+      <bounds x="-17847.553895117548" y="-14217.90187365735" width="35800.78619633338" height="26839.509928818392"/>
+      <aspectratio>off</aspectratio>
+      <languages>
+        <language>en</language>
+      </languages>
+      <mode type="normal"/>
+    </settings>
+    <object id="2_161993403" type="button" x="52.83920304913967" y="-798.1469092481543" r="0" s="44.318873726582545" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>808.8451760850994</w>
+        <h>606.6338820638248</h>
+      </size>
+    </object>
+    <object id="1_24309637" type="button" x="0" y="3.386879857626027e-13" r="0" s="29.793361453443374" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>1197.448853773701</w>
+        <h>673.5649802477071</h>
+      </size>
+      <meta>
+        <parentTemplate>bright-lights-locked</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+      <layout>
+        <frametype value="OVERVIEW"/>
+      </layout>
+    </object>
+    <object id="0_24309637" type="button" x="-9050.581680006677" y="2885.6277477000917" r="0" s="3.784172497425523" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+      <meta>
+        <parentTemplate>bright-lights-locked</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+      <layout>
+        <frametype value="SECTION"/>
+      </layout>
+    </object>
+    <object id="33_24309637" type="text" x="861.9781173288548" y="-7861.763323770472" r="0" s="74.42944403648417" class="head">
+      <height>27.59765625</height>
+      <width>401.5542184815218</width>
+      <p>
+        <text color="15724527"><![CDATA[Advanced C# - Teamwork Project]]></text>
+      </p>
+    </object>
+    <object id="25_4" type="text" x="-8950.366429667285" y="3205.201292564526" r="-1.4409135659032885e-15" s="5.57892558764842" class="body">
+      <height>248.37890625</height>
+      <width>390.9237784827681</width>
+      <p>
+        <text><![CDATA[This is a game where Nakov is chasing you and you must not let him catch you.]]></text>
+      </p>
+      <p>
+        <text><![CDATA[It's simple!]]></text>
+      </p>
+      <p>
+        <text><![CDATA[Run forward and miss the barriers.]]></text>
+      </p>
+      <p>
+        <text><![CDATA[For Nakov barriers are nothing, he is immuned from them.]]></text>
+      </p>
+      <p>
+        <text><![CDATA[He is running right behind you and if you hit a wall, you are done!]]></text>
+      </p>
+      <layout>
+        <layout-element role="body" parent-id="0_24309637"/>
+      </layout>
+    </object>
+    <object id="48_161993403" type="button" x="-1319.0414858114634" y="302.65013250921686" r="-1.4409135659032869e-15" s="9.074268123699726" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>805.1213575406828</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="37_161993403" type="button" x="1044.027884278351" y="549.5271017897486" r="-9.520846276499256e-16" s="1.8499389437098468" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>797.6366322008862</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="3_161993403" type="button" x="-1371.1376740105743" y="-286.50569780203716" r="-1.4409135659032865e-15" s="1.4409501741101958" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+    </object>
+    <object id="13_161993403" type="text" x="-1331.137748898393" y="-317.4462020305346" r="0.19793077560578248" s="5.163426507078923" class="strong">
+      <style color="3247103"/>
+      <style color="3247103"/>
+      <height>27.59765625</height>
+      <width>220.4993900181616</width>
+      <p align="center">
+        <text><![CDATA[Team "Authes"]]></text>
+      </p>
+      <layout>
+        <layout-element role="title" parent-id="3_161993403"/>
+      </layout>
+    </object>
+    <object id="0_161993403" type="text" x="-8747.877860776882" y="2022.762366411387" r="0" s="12.766343928694535" class="body">
+      <height>55.1953125</height>
+      <width>178.03508363623698</width>
+      <p>
+        <text><![CDATA[   Nakov is chasing you!]]></text>
+      </p>
+    </object>
+    <object id="26_161993403" type="shape" x="-8595.88108579628" y="4902.552643374808" r="40.078337713804814" s="6.383171964347268" class="line5">
+      <geom type="arrow">
+        <sp>-102.91434153489264 -17.521367674927664</sp>
+        <ep>102.91434153489266 -17.521367674927664</ep>
+        <b>35.04273534985533</b>
+        <t>10</t>
+      </geom>
+    </object>
+    <object id="5_161993403" type="image" x="-7196.398250034816" y="5410.151773619075" r="-1.4409135659032877e-15" s="2.220416716456123">
+      <source w="594" h="396">3825538817<mask x="0" y="14" w="594" h="367"/>
+      <url>3825538817.jpe</url></source>
+      <sourceUrl>http%3A%2F%2F0103.static.prezi.com.s3.amazonaws.com%2Fconverted%2F4%2F5%2Fd%2Fa2e3745399b38ec915e6463554c2f84fee4be.jpe</sourceUrl>
+      <layout>
+        <layout-element role="image"/>
+      </layout>
+    <resource><id>3825538817</id><url>http://0103.static.prezi.com.s3.amazonaws.com/converted/4/5/d/a2e3745399b38ec915e6463554c2f84fee4be.jpe</url></resource></object>
+    <object id="14_161993403" type="text" x="-7196.656710467404" y="5911.499565575726" r="-1.4409135659032885e-15" s="3.4277220523648" class="strong">
+      <style color="16711680"/>
+      <style color="16711680"/>
+      <height>27.59765625</height>
+      <width>306.3078079062704</width>
+      <p align="center">
+        <text><![CDATA[I am watching you!]]></text>
+      </p>
+      <layout>
+        <layout-element role="title"/>
+      </layout>
+    </object>
+    <object id="21_161993403" type="button" x="-7193.944069678071" y="5480.908678489658" r="-1.4409135659032885e-15" s="1.9747719114907576" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>797.6366322008862</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="24_161993403" type="button" x="-3627.15538867799" y="548.3272994804953" r="-9.52084627649926e-16" s="1.8214178683142288" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>797.6366322008862</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="42_161993403" type="image" x="-3627.418301745829" y="401.1045004464398" r="-9.52084627649926e-16" s="1.0708746578411348">
+      <source w="560" h="644">3825577031<url>3825577031.jpg</url></source>
+      <sourceUrl>1907671_10203333700814875_601766463216226112_n.jpg</sourceUrl>
+    <resource><id>3825577031</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/f/5/f/3a9fe5b9fe4dbbed8c8e22c7e430a15b907b2.jpg</url></resource></object>
+    <object id="29_161993403" type="button" x="-2337.184684289887" y="1886.6082935800391" r="-9.520846276499256e-16" s="1.8499389437098468" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>797.6366322008862</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="44_161993403" type="image" x="-2331.1258001680208" y="1767.1685865416482" r="-9.52084627649926e-16" s="0.9591197261894958">
+      <source w="720" h="720">3825586475<url>3825586475.jpg</url></source>
+      <sourceUrl>10985911_1400615986929954_931523373005972599_n.jpg</sourceUrl>
+    <resource><id>3825586475</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/1/2/f/4d3d54f3b0e62c2f380aacff80a071a76dae8.jpg</url></resource></object>
+    <object id="28_161993403" type="text" x="-2339.7258485667744" y="2289.9798658573422" r="-9.52084627649925e-16" s="3.2110424884946873" class="strong">
+      <style color="14938705"/>
+      <style color="14938705"/>
+      <height>27.59765625</height>
+      <width>306.3078079062704</width>
+      <p align="center">
+        <text><![CDATA[Йордан Николов]]></text>
+      </p>
+      <layout>
+        <layout-element role="title"/>
+      </layout>
+    </object>
+    <object id="33_161993403" type="button" x="-251.7221364478175" y="1886.3662485849993" r="-9.520846276499256e-16" s="1.8499389437098468" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>797.6366322008862</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="32_161993403" type="text" x="-254.26330072470483" y="2289.737820862306" r="-9.52084627649925e-16" s="3.2110424884946873" class="strong">
+      <style color="5974240"/>
+      <style color="5974240"/>
+      <height>27.59765625</height>
+      <width>306.3078079062704</width>
+      <p align="center">
+        <text><![CDATA[Илиан Стефанов]]></text>
+      </p>
+      <layout>
+        <layout-element role="title"/>
+      </layout>
+    </object>
+    <object id="36_161993403" type="text" x="1051.4066955056603" y="945.9217744112136" r="-9.520846276499256e-16" s="5.051565093950936" class="strong">
+      <style color="16711680"/>
+      <style color="16711680"/>
+      <height>27.59765625</height>
+      <width>306.3078079062704</width>
+      <p align="center">
+        <text><![CDATA[Христо Добрев]]></text>
+      </p>
+      <layout>
+        <layout-element role="title"/>
+      </layout>
+    </object>
+    <object id="38_161993403" type="shape" x="-2802.138515883191" y="-767.7074660095233" r="-19.237491034473543" s="5.646128514134518" class="line3">
+      <geom type="arrow">
+        <sp>171.37648650598112 64.54889541624196</sp>
+        <ep>-171.37648650598115 64.54889541624185</ep>
+        <b>129.0977908324838</b>
+        <t>10</t>
+      </geom>
+    </object>
+    <object id="39_161993403" type="shape" x="-2069.495690906029" y="672.2345689982534" r="-57.92625494144081" s="5.7345396688982655" class="line3">
+      <geom type="arrow">
+        <sp>103.87255299259822 0</sp>
+        <ep>-103.8725529925982 0</ep>
+        <t>10</t>
+      </geom>
+    </object>
+    <object id="40_161993403" type="shape" x="-647.4458679627932" y="660.6331600362337" r="54.10097073979196" s="5.734539668898263" class="line3">
+      <geom type="arrow">
+        <sp>-103.78651372060914 0</sp>
+        <ep>103.78651372060914 0</ep>
+        <t>10</t>
+      </geom>
+    </object>
+    <object id="41_161993403" type="shape" x="98.62418740490013" y="-741.8436084384779" r="20.420867541723318" s="5.646128514134512" class="line3">
+      <geom type="arrow">
+        <sp>-174.77658459659298 67.7760504919964</sp>
+        <ep>174.77658459659295 67.7760504919964</ep>
+        <b>-135.5521009839928</b>
+        <t>10</t>
+      </geom>
+    </object>
+    <object id="43_161993403" type="text" x="-3627.2968346824737" y="933.3026621968912" r="-9.52084627649926e-16" s="5.0838203788827085" class="body">
+      <height>27.59765625</height>
+      <width>-203.4609375</width>
+      <p>
+        <text color="15728820"><![CDATA[Мариа Димитрова]]></text>
+      </p>
+    </object>
+    <object id="45_161993403" type="image" x="-260.85978244852953" y="1766.7294167454909" r="-9.520846276499256e-16" s="0.9441736893904682">
+      <source w="359" h="753">3825589463<url>3825589463.jpg</url></source>
+      <sourceUrl>10386362_865648756797510_6919301173997903838_n.jpg</sourceUrl>
+    <resource><id>3825589463</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/2/0/2/6a3997d8428e8f36c2b174d06d404186014ed.jpg</url></resource></object>
+    <object id="47_161993403" type="image" x="1024.6935099288785" y="414.6578989547292" r="-9.52084627649926e-16" s="0.786207028608079">
+      <source w="720" h="960">3825593948<url>3825593948.jpg</url></source>
+      <sourceUrl>11044569_798085910278467_4841529903626958462_n.jpg</sourceUrl>
+    <resource><id>3825593948</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/2/b/f/daf1bce17701ab24783de3ab0efbe0f28b0d0.jpg</url></resource></object>
+    <object id="51_161993403" type="shape" x="-3655.605757751288" y="4192.929473850736" r="90" s="11.292257028269036" class="line5">
+      <geom type="line">
+        <sp>-261.02991255105565 0</sp>
+        <ep>261.02991255105565 0</ep>
+        <t>8</t>
+      </geom>
+    </object>
+    <object id="52_161993403" type="shape" x="-771.0476747482115" y="7141.5897021114915" r="-2.8066837194139507e-14" s="11.292257028269036" class="line5">
+      <geom type="line">
+        <sp>255.425559348712 0</sp>
+        <ep>-255.425559348712 0</ep>
+        <t>8</t>
+      </geom>
+    </object>
+    <object id="53_161993403" type="shape" x="5517.629826122091" y="7141.0680202776675" r="-0.008780001589106126" s="11.292257028269033" class="line5">
+      <geom type="line">
+        <sp>-301.4761765131688 0</sp>
+        <ep>301.47617651316887 0</ep>
+        <t>8</t>
+      </geom>
+    </object>
+    <object id="54_161993403" type="button" x="10711.164539254954" y="7159.079226103289" r="-1.4409135659032869e-15" s="4.266276908863989" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+      <meta>
+        <parentTemplate>blank-quick</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+      <layout>
+        <frametype value="SECTION"/>
+      </layout>
+    </object>
+    <object id="55_161993403" type="text" x="10696.208852674525" y="6298.224804723797" r="-1.4409135659032877e-15" s="9.405317773371014" class="strong">
+      <height>27.59765625</height>
+      <width>220.4993900181616</width>
+      <p align="center">
+        <text><![CDATA[Contributions]]></text>
+      </p>
+      <layout>
+        <layout-element role="title" parent-id="54_161993403"/>
+      </layout>
+    </object>
+    <object id="57_161993403" type="shape" x="-2354.78537800365" y="3973.5885618217303" r="90" s="11.292257028269036" class="line5">
+      <geom type="line">
+        <sp>-117.22541336522504 0</sp>
+        <ep>117.22541336522502 0</ep>
+        <t>8</t>
+      </geom>
+    </object>
+    <object id="58_161993403" type="shape" x="2283.9188584064473" y="5299.879277381293" r="0.020740108171139075" s="11.292257028269036" class="line5">
+      <geom type="line">
+        <sp>-410.7553761834161 0</sp>
+        <ep>410.7553761834161 0</ep>
+        <t>8</t>
+      </geom>
+    </object>
+    <object id="59_161993403" type="shape" x="7895.297054690285" y="4328.535067352637" r="-45.00000000000001" s="11.292257028269034" class="line5">
+      <geom type="line">
+        <sp>-121.85895396492084 0</sp>
+        <ep>121.85895396492084 0</ep>
+        <t>8</t>
+      </geom>
+    </object>
+    <object id="60_161993403" type="button" x="10637.235544023006" y="3191.9328905563098" r="-1.4409135659032869e-15" s="4.326649909347429" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+      <meta>
+        <parentTemplate>blank-quick</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+      <layout>
+        <frametype value="SECTION"/>
+      </layout>
+    </object>
+    <object id="61_161993403" type="text" x="10634.968216310874" y="2081.64633343918" r="-1.4409135659032877e-15" s="9.538414444451805" class="strong">
+      <height>27.59765625</height>
+      <width>220.4993900181616</width>
+      <p align="center">
+        <text><![CDATA[Contributions]]></text>
+      </p>
+      <layout>
+        <layout-element role="title" parent-id="60_161993403"/>
+      </layout>
+    </object>
+    <object id="63_161993403" type="shape" x="-287.7043742398503" y="3426.228828971983" r="90" s="11.292257028269036" class="line5">
+      <geom type="line">
+        <sp>-68.75648711049347 0</sp>
+        <ep>68.75648711049347 0</ep>
+        <t>8</t>
+      </geom>
+    </object>
+    <object id="64_161993403" type="shape" x="2430.036137319515" y="4222.992282732082" r="0.41062714361642894" s="11.29225702826903" class="line5">
+      <geom type="line">
+        <sp>-240.6481742207018 0</sp>
+        <ep>240.64817422070175 0</ep>
+        <t>8</t>
+      </geom>
+    </object>
+    <object id="65_161993403" type="shape" x="7172.151920606483" y="2217.743069235178" r="-45.00000000000005" s="11.292257028269034" class="line5">
+      <geom type="line">
+        <sp>-253.57135335392272 0</sp>
+        <ep>253.57135335392272 0</ep>
+        <t>8</t>
+      </geom>
+    </object>
+    <object id="66_161993403" type="button" x="10711.146895103346" y="-733.5379588957138" r="-1.4409135659032869e-15" s="4.372754493191692" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+      <meta>
+        <parentTemplate>blank-quick</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+      <layout>
+        <frametype value="SECTION"/>
+      </layout>
+    </object>
+    <object id="67_161993403" type="text" x="10695.817945039777" y="-1847.0275536955896" r="-1.4409135659032877e-15" s="9.640055353170922" class="strong">
+      <height>27.59765625</height>
+      <width>220.4993900181616</width>
+      <p align="center">
+        <text><![CDATA[Contributions]]></text>
+      </p>
+      <layout>
+        <layout-element role="title" parent-id="66_161993403"/>
+      </layout>
+    </object>
+    <object id="69_161993403" type="shape" x="1046.1675106266907" y="2365.493168325387" r="89.6543617794402" s="11.292257028269036" class="line5">
+      <geom type="line">
+        <sp>-101.07322982883726 0</sp>
+        <ep>101.07322982883724 0</ep>
+        <t>8</t>
+      </geom>
+    </object>
+    <object id="70_161993403" type="shape" x="2891.5910880285182" y="3506.2900145200806" r="-1.4409135659032869e-15" s="11.292257028269033" class="line5">
+      <geom type="line">
+        <sp>-162.74290014486274 0</sp>
+        <ep>162.74290014486274 0</ep>
+        <t>8</t>
+      </geom>
+    </object>
+    <object id="71_161993403" type="shape" x="5459.25900054232" y="782.1420223975744" r="-75.00000000000001" s="11.292257028269027" class="line5">
+      <geom type="line">
+        <sp>-249.75038392202563 0</sp>
+        <ep>249.75038392202563 0</ep>
+        <t>8</t>
+      </geom>
+    </object>
+    <object id="72_161993403" type="button" x="6360.028532292009" y="-3688.068789584274" r="-1.4409135659032869e-15" s="4.279436702397427" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+      <meta>
+        <parentTemplate>blank-quick</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+      <layout>
+        <frametype value="SECTION"/>
+      </layout>
+    </object>
+    <object id="73_161993403" type="text" x="6375.576713275324" y="-4734.678609731756" r="-1.440913565903287e-15" s="9.434329495455154" class="strong">
+      <height>27.59765625</height>
+      <width>220.4993900181616</width>
+      <p align="center">
+        <text><![CDATA[Contributions]]></text>
+      </p>
+      <layout>
+        <layout-element role="title" parent-id="72_161993403"/>
+      </layout>
+    </object>
+    <object id="1_161993403" type="text" x="3495.95" y="-584.5687500000001" r="-1.4409135659032869e-15" s="16" class="body">
+      <height>27.59765625</height>
+      <width>0</width>
+      <p>
+        <text><![CDATA[]]></text>
+      </p>
+    </object>
+    <object id="4_161993403" type="text" x="-9087.403575775441" y="4085.2826353061255" r="0" s="5.57892558764842" class="body">
+      <height>27.59765625</height>
+      <width>-86.70703125</width>
+      <p>
+        <text><![CDATA[   Enjoy!]]></text>
+      </p>
+    </object>
+    <object id="6_161993403" type="text" x="6407.240527856671" y="-3417.8485736311904" r="-1.440913565903287e-15" s="9.434329495455154" class="body">
+      <height>165.5859375</height>
+      <width>272.14453125</width>
+      <p align="center">
+        <text><![CDATA[Hristo designed the main menu and calculated the barrier movement.]]></text>
+      </p>
+      <p align="center">
+        <text><![CDATA[He has shown a lot of creative thinking and hard work.]]></text>
+      </p>
+    </object>
+    <object id="7_161993403" type="text" x="10711.199999999999" y="-498.73447225248265" r="-1.4409135659032869e-15" s="9.640055353170922" class="body">
+      <height>165.5859375</height>
+      <width>280.18359375</width>
+      <p align="center">
+        <text><![CDATA[Ilian designed the presentation and calculations for score and bonuses.]]></text>
+      </p>
+      <p align="center">
+        <text><![CDATA[He has shown a lot of hard work and dedication]]></text>
+      </p>
+    </object>
+    <object id="8_161993403" type="text" x="10628.90902927877" y="3358.0695381711807" r="-1.440913565903287e-15" s="9.538414444451805" class="body">
+      <height>165.5859375</height>
+      <width>269.91796875</width>
+      <p align="center">
+        <text><![CDATA[Yordan implement the code for gravity in our console game and gave some pretty good ideas]]></text>
+      </p>
+      <p align="center">
+        <text><![CDATA[and he was very active during the whole process]]></text>
+      </p>
+    </object>
+    <object id="9_161993403" type="text" x="10720.191667265999" y="7387.212519233315" r="-1.4409135659032865e-15" s="9.405317773371014" class="body">
+      <height>110.390625</height>
+      <width>282.78515625</width>
+      <p align="center">
+        <text><![CDATA[Maria took a little part in every aspect of our game development process.]]></text>
+      </p>
+      <p>
+        <text><![CDATA[]]></text>
+      </p>
+    </object>
+    <object id="10_161993403" type="text" x="13689.415888668549" y="6417.932363415754" r="-1.4409135659032869e-15" s="9.405317773371014" class="body">
+      <height>27.59765625</height>
+      <width>0</width>
+      <p>
+        <text><![CDATA[]]></text>
+      </p>
+    </object>
+  </zui-table>
+  <background>
+    <layer depth="31.738664927107187" fadescale="0.06931608513000292">
+      <object id="background881273605" type="image" x="0" y="0" r="0" s="80.17098597629146">
+        <source w="1291" h="720">881273605<url>881273605.png</url></source>
+        <sourceUrl>bokeh6.png</sourceUrl>
+      <resource><id>881273605</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/c/7/f/441c333ece868bdf22cb7c286587485d33288.png</url></resource></object>
+    </layer>
+  </background>
+  <path>
+    <s>
+      <eagle o="2_161993403"/>
+    </s>
+    <s>
+      <eagle o="0_24309637"/>
+    </s>
+    <s>
+      <eagle o="21_161993403"/>
+    </s>
+    <s>
+      <eagle o="3_161993403"/>
+    </s>
+    <s>
+      <eagle o="24_161993403"/>
+    </s>
+    <s>
+      <eagle o="54_161993403"/>
+    </s>
+    <s>
+      <eagle o="29_161993403"/>
+    </s>
+    <s>
+      <eagle o="60_161993403"/>
+    </s>
+    <s>
+      <eagle o="33_161993403"/>
+    </s>
+    <s>
+      <eagle o="66_161993403"/>
+    </s>
+    <s>
+      <eagle o="37_161993403"/>
+    </s>
+    <s>
+      <eagle o="72_161993403"/>
+    </s>
+  </path>
+  <style type="text/css"><![CDATA[
+@font-face
+{
+	src: url('Arimo-Regular.keg');
+	fontFamily: body;
+	font-class: body;
+	font-style: normal;
+	font-weight: normal;
+	font-family: Arimo;
+}
+
+@font-face
+{
+	src: url('Arimo-Bold.keg');
+	fontFamily: head;
+	font-class: head;
+	font-style: normal;
+	font-weight: bold;
+	font-family: Arimo;
+}
+
+@font-face
+{
+	src: url('Arimo-Bold.keg');
+	fontFamily: strong;
+	font-class: strong;
+	font-style: normal;
+	font-weight: bold;
+	font-family: Arimo;
+}
+
+@font-face
+{
+	src: url('Arimo-Italic.keg');
+	font-style: italic;
+	font-weight: normal;
+	font-family: Arimo;
+}
+
+@font-face
+{
+	src: url('Arimo-BoldItalic.keg');
+	font-style: italic;
+	font-weight: bold;
+	font-family: Arimo;
+}
+
+.line1
+{
+	borderAlpha: 0;
+	borderColor: #3682a2;
+	color: #3682a2;
+	gradEndAlpha: 1;
+	gradEndColor: #fff;
+	gradStartColor: #fff;
+}
+
+.line2
+{
+	borderColor: #000;
+	color: #000;
+	gradEndAlpha: 1;
+	gradEndColor: #333;
+	gradStartColor: #333;
+}
+
+.line3
+{
+	borderColor: #656fa0;
+	color: #656fa0;
+	gradEndAlpha: 1;
+	gradEndColor: #656fa0;
+	gradStartColor: #656fa0;
+}
+
+.line4
+{
+	borderAlpha: 0;
+	borderColor: #a19cf6;
+	color: #a19cf6;
+	gradEndAlpha: 1;
+	gradEndColor: #a6e456;
+	gradStartColor: #a6e456;
+}
+
+.line5
+{
+	borderAlpha: 0;
+	borderColor: #b431d9;
+	color: #b431d9;
+	gradEndAlpha: 1;
+	gradEndColor: #b431d9;
+	gradStartColor: #b431d9;
+}
+
+.poly1
+{
+	borderColor: #3682a2;
+	borderThickness: 9;
+	color: #6498b0;
+	gradEndColor: #fff;
+	gradStartColor: #fff;
+}
+
+.poly2
+{
+	borderColor: #000;
+	borderThickness: 0;
+	color: #6498b0;
+	gradEndAlpha: .4;
+	gradEndColor: #000;
+	gradStartAlpha: .9;
+	gradStartColor: #333;
+}
+
+.poly3
+{
+	borderAlpha: 0;
+	borderColor: #656fa0;
+	borderThickness: 9;
+	color: #6498b0;
+	gradEndColor: #656fa0;
+	gradStartColor: #656fa0;
+}
+
+.poly4
+{
+	borderColor: #a19cf6;
+	borderThickness: 0;
+	color: #6498b0;
+	gradEndColor: #a6e456;
+	gradStartColor: #a6e456;
+}
+
+.poly5
+{
+	borderColor: #b431d9;
+	borderThickness: 3;
+	color: #6498b0;
+	gradEndColor: #b431d9;
+	gradStartColor: #b431d9;
+}
+
+Background
+{
+	gradEnd: #3e65a3;
+	gradStart: #8bccbe;
+}
+
+Grid
+{
+	color: #7cbdda;
+}
+
+ZArrow
+{
+	borderAlpha: 1;
+	borderColor: #fff;
+	borderThickness: 1;
+	gradEndAlpha: 0;
+	gradEndColor: #fff;
+	gradStartAlpha: 1;
+	gradStartColor: #fff;
+	thickness: 10;
+}
+
+ZCircle
+{
+	borderAlpha: 0;
+	gradEndAlpha: 1;
+	gradStartAlpha: 1;
+	lockTintAlpha: 0;
+	radius: 0;
+	thickness: 100;
+}
+
+ZCurveLine
+{
+	color: #fff;
+}
+
+ZFrame.bracket
+{
+	borderAlpha: 0;
+	borderColor: #318bff;
+	borderThickness: 0;
+	gradEndAlpha: 1;
+	gradEndColor: #fff;
+	gradStartAlpha: 1;
+	gradStartColor: #fff;
+	thickness: 3;
+}
+
+ZFrame.circle
+{
+	borderAlpha: 0;
+	borderColor: #000;
+	borderThickness: 3;
+	gradEndAlpha: 1;
+	gradEndColor: #fff;
+	gradStartAlpha: 1;
+	gradStartColor: #fff;
+	thickness: 3;
+}
+
+ZFrame.roundrect
+{
+	borderAlpha: 1;
+	borderColor: #fff;
+	borderThickness: 6;
+	gradEndAlpha: 0.2;
+	gradEndColor: #fff;
+	gradStartAlpha: 0;
+	gradStartColor: #fff;
+	radius: 1;
+	thickness: 4;
+}
+
+ZLabel
+{
+	lockTintAlpha: 0.15;
+	padding: 1.2;
+}
+
+ZLabel.body
+{
+	color: #333;
+	fontFamily: body;
+}
+
+ZLabel.body-background
+{
+	background-alpha: 0.8;
+	background-color: #fff;
+	background-padding: 20;
+}
+
+ZLabel.head
+{
+	color: #fff;
+	fontFamily: head;
+}
+
+ZLabel.head-background
+{
+	background-alpha: 0.4;
+	background-color: #000;
+	background-padding: 6;
+}
+
+ZLabel.strong
+{
+	color: #333;
+	fontFamily: strong;
+}
+
+ZLabel.strong-background
+{
+	background-alpha: 0.4;
+	background-color: #fff;
+	background-padding: 8;
+}
+
+ZLine
+{
+	color: #fff;
+}
+
+ZMarker
+{
+	alpha: 0.8;
+	color: #a6e456;
+}
+
+ZPath
+{
+	alpha: 1;
+	color: #40abe6;
+	textColor: #fff;
+	thickness: 3;
+}
+
+ZPath Ball.base
+{
+	alpha: 1;
+	fillColor: #40abe6;
+	radius: 12;
+}
+
+ZPath Ball.mid
+{
+	alpha: .5;
+	fillColor: #40abe6;
+	radius: 8;
+}
+
+ZPoly
+{
+	borderAlpha: 0;
+	gradEndAlpha: 1;
+	gradStartAlpha: 1;
+	lockTintAlpha: 0;
+	radius: 0;
+	thickness: 100;
+}
+
+]]></style>
+  <hash>-38f7bafb</hash>
+<sync><oid>ni-p4ri3ala7</oid><title>advanced-c-teamwork-project</title><hash>-38f7bafb</hash></sync><config>c/asbk9LqztfMqB49Tnmt4KvTeFufEsJayZdgruu9QEXuNL9y10fKGf5GeE8h8E1hMwToEqWYYT+7/U+NTNifCu5Z0j55GU1/700sNoFQcUJcp2g3O4DOSI2kctriy7gki5JTSoLg4igCA8GGmQk8XE995YjSHXVh+4k/IX54rKn8kVMynkZ7NpCIeaZokuOgO31sVNNcRI802hx6sxZxnk7YaeOE8Ci9IznXbHS4GvCcV1rK0YMFspoztURSOmwk6djCP7m+K409np8eMBhZEW8fy02ln2W+KR05EMsmIDJ7zFFm2JbrCHJUwTeM/CmcYW5nZeVDmL+FjNdimta1w==</config></zuiprezi>

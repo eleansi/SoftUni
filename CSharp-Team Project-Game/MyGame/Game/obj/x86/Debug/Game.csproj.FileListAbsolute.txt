@@ -1,0 +1,4 @@
+D:\Others\Advanced C# Teamwork\C-Advanced-TeamAuthes-Game\CSharpAdvanced-TeamAuthes\Game\bin\Debug\Game.exe
+D:\Others\Advanced C# Teamwork\C-Advanced-TeamAuthes-Game\CSharpAdvanced-TeamAuthes\Game\bin\Debug\Game.pdb
+D:\Others\Advanced C# Teamwork\C-Advanced-TeamAuthes-Game\CSharpAdvanced-TeamAuthes\Game\obj\x86\Debug\Game.exe
+D:\Others\Advanced C# Teamwork\C-Advanced-TeamAuthes-Game\CSharpAdvanced-TeamAuthes\Game\obj\x86\Debug\Game.pdb
