@@ -1,0 +1,6 @@
+C:\Users\Ilian Stefanov\Desktop\SoftUni\Level 1 (Fundamental September)\OOP\03.Exception Handling\ExceptionHandling-HW\ExceptionHandl\ExceptionHandl\bin\Debug\ExceptionHandl.exe.config
+C:\Users\Ilian Stefanov\Desktop\SoftUni\Level 1 (Fundamental September)\OOP\03.Exception Handling\ExceptionHandling-HW\ExceptionHandl\ExceptionHandl\bin\Debug\ExceptionHandl.exe
+C:\Users\Ilian Stefanov\Desktop\SoftUni\Level 1 (Fundamental September)\OOP\03.Exception Handling\ExceptionHandling-HW\ExceptionHandl\ExceptionHandl\bin\Debug\ExceptionHandl.pdb
+C:\Users\Ilian Stefanov\Desktop\SoftUni\Level 1 (Fundamental September)\OOP\03.Exception Handling\ExceptionHandling-HW\ExceptionHandl\ExceptionHandl\obj\Debug\SquareRoots.csprojResolveAssemblyReference.cache
+C:\Users\Ilian Stefanov\Desktop\SoftUni\Level 1 (Fundamental September)\OOP\03.Exception Handling\ExceptionHandling-HW\ExceptionHandl\ExceptionHandl\obj\Debug\ExceptionHandl.exe
+C:\Users\Ilian Stefanov\Desktop\SoftUni\Level 1 (Fundamental September)\OOP\03.Exception Handling\ExceptionHandling-HW\ExceptionHandl\ExceptionHandl\obj\Debug\ExceptionHandl.pdb
