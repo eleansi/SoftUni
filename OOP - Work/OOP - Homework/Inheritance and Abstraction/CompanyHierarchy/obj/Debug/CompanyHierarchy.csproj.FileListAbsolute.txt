@@ -1,0 +1,6 @@
+C:\Users\Ilian Stefanov\Desktop\SoftUni\Level 1 (Fundamental September)\OOP\05.InhertitAndAbst\InhAndAbst-HW\InheritAndAbst-HW\CompanyHierarchy\bin\Debug\CompanyHierarchy.exe.config
+C:\Users\Ilian Stefanov\Desktop\SoftUni\Level 1 (Fundamental September)\OOP\05.InhertitAndAbst\InhAndAbst-HW\InheritAndAbst-HW\CompanyHierarchy\obj\Debug\CompanyHierarchy.csprojResolveAssemblyReference.cache
+C:\Users\Ilian Stefanov\Desktop\SoftUni\Level 1 (Fundamental September)\OOP\05.InhertitAndAbst\InhAndAbst-HW\InheritAndAbst-HW\CompanyHierarchy\bin\Debug\CompanyHierarchy.exe
+C:\Users\Ilian Stefanov\Desktop\SoftUni\Level 1 (Fundamental September)\OOP\05.InhertitAndAbst\InhAndAbst-HW\InheritAndAbst-HW\CompanyHierarchy\bin\Debug\CompanyHierarchy.pdb
+C:\Users\Ilian Stefanov\Desktop\SoftUni\Level 1 (Fundamental September)\OOP\05.InhertitAndAbst\InhAndAbst-HW\InheritAndAbst-HW\CompanyHierarchy\obj\Debug\CompanyHierarchy.exe
+C:\Users\Ilian Stefanov\Desktop\SoftUni\Level 1 (Fundamental September)\OOP\05.InhertitAndAbst\InhAndAbst-HW\InheritAndAbst-HW\CompanyHierarchy\obj\Debug\CompanyHierarchy.pdb

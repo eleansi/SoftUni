@@ -1,0 +1,6 @@
+C:\Users\Ilian Stefanov\Desktop\SoftUni\Level 1 (Fundamental September)\OOP\05.InhertitAndAbst\InhAndAbst-HW\InheritAndAbst-HW\Animals\bin\Debug\Animals.exe.config
+C:\Users\Ilian Stefanov\Desktop\SoftUni\Level 1 (Fundamental September)\OOP\05.InhertitAndAbst\InhAndAbst-HW\InheritAndAbst-HW\Animals\bin\Debug\Animals.exe
+C:\Users\Ilian Stefanov\Desktop\SoftUni\Level 1 (Fundamental September)\OOP\05.InhertitAndAbst\InhAndAbst-HW\InheritAndAbst-HW\Animals\bin\Debug\Animals.pdb
+C:\Users\Ilian Stefanov\Desktop\SoftUni\Level 1 (Fundamental September)\OOP\05.InhertitAndAbst\InhAndAbst-HW\InheritAndAbst-HW\Animals\obj\Debug\Animals.csprojResolveAssemblyReference.cache
+C:\Users\Ilian Stefanov\Desktop\SoftUni\Level 1 (Fundamental September)\OOP\05.InhertitAndAbst\InhAndAbst-HW\InheritAndAbst-HW\Animals\obj\Debug\Animals.exe
+C:\Users\Ilian Stefanov\Desktop\SoftUni\Level 1 (Fundamental September)\OOP\05.InhertitAndAbst\InhAndAbst-HW\InheritAndAbst-HW\Animals\obj\Debug\Animals.pdb
