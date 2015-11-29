@@ -1,0 +1,1 @@
+C:\Users\Ilian Stefanov\Desktop\SoftUni\Level 1 (Fundamental September)\OOP\02.Static members and Namespaces\StaticMembers-HW\StaticMembers\DistanceCalc\bin\Debug\DistanceCalc.exe.config

@@ -1,0 +1,6 @@
+C:\Users\Ilian Stefanov\Desktop\SoftUni\Level 1 (Fundamental September)\OOP\02.Static members and Namespaces\StaticMembers-HW\StaticMembers\Point3D\bin\Debug\Point3D.exe.config
+C:\Users\Ilian Stefanov\Desktop\SoftUni\Level 1 (Fundamental September)\OOP\02.Static members and Namespaces\StaticMembers-HW\StaticMembers\Point3D\bin\Debug\Point3D.exe
+C:\Users\Ilian Stefanov\Desktop\SoftUni\Level 1 (Fundamental September)\OOP\02.Static members and Namespaces\StaticMembers-HW\StaticMembers\Point3D\bin\Debug\Point3D.pdb
+C:\Users\Ilian Stefanov\Desktop\SoftUni\Level 1 (Fundamental September)\OOP\02.Static members and Namespaces\StaticMembers-HW\StaticMembers\Point3D\obj\Debug\Point3D.csprojResolveAssemblyReference.cache
+C:\Users\Ilian Stefanov\Desktop\SoftUni\Level 1 (Fundamental September)\OOP\02.Static members and Namespaces\StaticMembers-HW\StaticMembers\Point3D\obj\Debug\Point3D.exe
+C:\Users\Ilian Stefanov\Desktop\SoftUni\Level 1 (Fundamental September)\OOP\02.Static members and Namespaces\StaticMembers-HW\StaticMembers\Point3D\obj\Debug\Point3D.pdb

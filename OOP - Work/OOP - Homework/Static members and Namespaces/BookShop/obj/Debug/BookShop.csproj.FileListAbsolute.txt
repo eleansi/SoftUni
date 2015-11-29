@@ -1,0 +1,6 @@
+C:\Users\Ilian Stefanov\Desktop\SoftUni\Level 1 (Fundamental September)\OOP\02.Static members and Namespaces\StaticMembers-HW\StaticMembers\BookShop\bin\Debug\BookShop.exe.config
+C:\Users\Ilian Stefanov\Desktop\SoftUni\Level 1 (Fundamental September)\OOP\02.Static members and Namespaces\StaticMembers-HW\StaticMembers\BookShop\bin\Debug\BookShop.exe
+C:\Users\Ilian Stefanov\Desktop\SoftUni\Level 1 (Fundamental September)\OOP\02.Static members and Namespaces\StaticMembers-HW\StaticMembers\BookShop\bin\Debug\BookShop.pdb
+C:\Users\Ilian Stefanov\Desktop\SoftUni\Level 1 (Fundamental September)\OOP\02.Static members and Namespaces\StaticMembers-HW\StaticMembers\BookShop\obj\Debug\BookShop.exe
+C:\Users\Ilian Stefanov\Desktop\SoftUni\Level 1 (Fundamental September)\OOP\02.Static members and Namespaces\StaticMembers-HW\StaticMembers\BookShop\obj\Debug\BookShop.pdb
+C:\Users\Ilian Stefanov\Desktop\SoftUni\Level 1 (Fundamental September)\OOP\02.Static members and Namespaces\StaticMembers-HW\StaticMembers\BookShop\obj\Debug\BookShop.csprojResolveAssemblyReference.cache
