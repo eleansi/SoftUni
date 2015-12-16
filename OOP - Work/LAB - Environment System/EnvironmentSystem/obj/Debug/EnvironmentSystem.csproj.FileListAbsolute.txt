@@ -1,0 +1,6 @@
+C:\Users\Ilian Stefanov\Desktop\SoftUni\Level 1 (Fundamental September)\OOP\10.Lab-Environment System\EnvironmentSystem\bin\Debug\EnvironmentSystem.exe.config
+C:\Users\Ilian Stefanov\Desktop\SoftUni\Level 1 (Fundamental September)\OOP\10.Lab-Environment System\EnvironmentSystem\bin\Debug\EnvironmentSystem.exe
+C:\Users\Ilian Stefanov\Desktop\SoftUni\Level 1 (Fundamental September)\OOP\10.Lab-Environment System\EnvironmentSystem\bin\Debug\EnvironmentSystem.pdb
+C:\Users\Ilian Stefanov\Desktop\SoftUni\Level 1 (Fundamental September)\OOP\10.Lab-Environment System\EnvironmentSystem\obj\Debug\EnvironmentSystem.csprojResolveAssemblyReference.cache
+C:\Users\Ilian Stefanov\Desktop\SoftUni\Level 1 (Fundamental September)\OOP\10.Lab-Environment System\EnvironmentSystem\obj\Debug\EnvironmentSystem.exe
+C:\Users\Ilian Stefanov\Desktop\SoftUni\Level 1 (Fundamental September)\OOP\10.Lab-Environment System\EnvironmentSystem\obj\Debug\EnvironmentSystem.pdb

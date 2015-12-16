@@ -1,0 +1,185 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="EnvironmentSystem.Core.CollisionHandler" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="14.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAA=</HashCode>
+      <FileName>Core\CollisionHandler.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="EnvironmentSystem.Core.ConsoleRenderer" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="17.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAABAAAAIAAAAAQAAAAiIAAAEAAAA=</HashCode>
+      <FileName>Core\ConsoleRenderer.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="EnvironmentSystem.Core.Engine" Collapsed="true">
+    <Position X="14.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAACEgAAAIAAAAAAAAABAAAAUAAAAAAAAAAAAAAgAI=</HashCode>
+      <FileName>Core\Engine.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EnvironmentSystem.Core.Generator.ObjectGenerator" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="17.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAAABAAEAAAAAAAABgAgAAAAAAgAAAAAAAA=</HashCode>
+      <FileName>Core\Generator\ObjectGenerator.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="EnvironmentSystem.EnvironmentSystemMain" Collapsed="true">
+    <Position X="16" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAGAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>EnvironmentSystemMain.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EnvironmentSystem.Models.CollisionInfo" Collapsed="true">
+    <Position X="16" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\CollisionInfo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EnvironmentSystem.Models.Point" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="14.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAYBA=</HashCode>
+      <FileName>Models\Point.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="EnvironmentSystem.Models.DataStructures.QuadTree" Collapsed="true">
+    <Position X="16" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAAAQCAAABAAAAQEBAAAQAAACAABAIEA=</HashCode>
+      <FileName>Models\DataStructures\QuadTree.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EnvironmentSystem.Models.DataStructures.Rectangle" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="17.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAABAAAABAAAAAAAEAAAAAAAAAAAAAAAAAAAJA=</HashCode>
+      <FileName>Models\DataStructures\Rectangle.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="EnvironmentSystem.Models.Objects.EnvironmentObject" Collapsed="true">
+    <Position X="6" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAACAIAAAAAAAAAAAAAAAAAAAAAAAIBAAAEAAgA=</HashCode>
+      <FileName>Models\Objects\EnvironmentObject.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="EnvironmentSystem.Models.Objects.FallingStar" Collapsed="true">
+    <Position X="2.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAA=</HashCode>
+      <FileName>Models\Objects\FallingStar.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EnvironmentSystem.Models.Objects.Ground" Collapsed="true">
+    <Position X="9.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAIAAAAAAAAAAAAAAEAAAAAAAAIAAAACAAAA=</HashCode>
+      <FileName>Models\Objects\Ground.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EnvironmentSystem.Models.Objects.MovingObject" Collapsed="true">
+    <Position X="1.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAIAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Objects\MovingObject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EnvironmentSystem.Models.Objects.Snow" Collapsed="true">
+    <Position X="5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAIAAAAQAQAAAAAAAAAAAAAAAAMAAAAAAAAA=</HashCode>
+      <FileName>Models\Objects\Snow.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EnvironmentSystem.Models.Objects.Snowflake" Collapsed="true">
+    <Position X="0.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAIAAAACAAAA=</HashCode>
+      <FileName>Models\Objects\Snowflake.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EnvironmentSystem.Models.Objects.Star" Collapsed="true">
+    <Position X="7.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAQAAAAAAIAAAAABAAAAAAQAAAAAAIAEAIAAAAAAAAA=</HashCode>
+      <FileName>Models\Objects\Star.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EnvironmentSystem.Models.Objects.Trail" Collapsed="true">
+    <Position X="11.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAIAAQAAAAAAAAAAAAAAAAAAAAIAAAAAAAAA=</HashCode>
+      <FileName>Models\Objects\Trail.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="EnvironmentSystem.Interfaces.ICollidable" Collapsed="true">
+    <Position X="14.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>Interfaces\ICollidable.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="EnvironmentSystem.Interfaces.ICollisionHandler" Collapsed="true">
+    <Position X="16" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interfaces\ICollisionHandler.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="EnvironmentSystem.Interfaces.IController" Collapsed="true">
+    <Position X="17.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interfaces\IController.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="EnvironmentSystem.Interfaces.IObjectGenerator&lt;T&gt;" Collapsed="true">
+    <Position X="14.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAgAAAAAAAA=</HashCode>
+      <FileName>Interfaces\IObjectGenerator.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="EnvironmentSystem.Interfaces.IObjectProducer" Collapsed="true">
+    <Position X="16" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAA=</HashCode>
+      <FileName>Interfaces\IObjectProducer.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="EnvironmentSystem.Interfaces.IRenderable" Collapsed="true">
+    <Position X="17.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAgA=</HashCode>
+      <FileName>Interfaces\IRenderable.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="EnvironmentSystem.Interfaces.IRenderer" Collapsed="true">
+    <Position X="14.25" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAABAAAAIAAAAAAAAAACAAAAAAAAA=</HashCode>
+      <FileName>Interfaces\IRenderer.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="EnvironmentSystem.Models.CollisionGroup" Collapsed="true">
+    <Position X="14.25" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAABAAAAAABAAAAAAAAEAAAAAAAAAAAAAAAAEAA=</HashCode>
+      <FileName>Models\CollisionGroup.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
