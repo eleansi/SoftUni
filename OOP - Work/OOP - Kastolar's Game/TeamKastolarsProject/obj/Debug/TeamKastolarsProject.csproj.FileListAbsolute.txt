@@ -1,0 +1,16 @@
+C:\Users\Ilian Stefanov\Desktop\SoftUni\Level 1 (Fundamental September)\OOP\TeamProject\TeamKastolarGame\TeamKastolarsProject\TeamKastolarsProject\bin\Debug\TeamKastolarsProject.exe.config
+C:\Users\Ilian Stefanov\Desktop\SoftUni\Level 1 (Fundamental September)\OOP\TeamProject\TeamKastolarGame\TeamKastolarsProject\TeamKastolarsProject\bin\Debug\TeamKastolarsProject.exe
+C:\Users\Ilian Stefanov\Desktop\SoftUni\Level 1 (Fundamental September)\OOP\TeamProject\TeamKastolarGame\TeamKastolarsProject\TeamKastolarsProject\bin\Debug\TeamKastolarsProject.pdb
+C:\Users\Ilian Stefanov\Desktop\SoftUni\Level 1 (Fundamental September)\OOP\TeamProject\TeamKastolarGame\TeamKastolarsProject\TeamKastolarsProject\obj\Debug\TeamKastolarsProject.csprojResolveAssemblyReference.cache
+C:\Users\Ilian Stefanov\Desktop\SoftUni\Level 1 (Fundamental September)\OOP\TeamProject\TeamKastolarGame\TeamKastolarsProject\TeamKastolarsProject\obj\Debug\TeamKastolarsProject.Frm_Menu.resources
+C:\Users\Ilian Stefanov\Desktop\SoftUni\Level 1 (Fundamental September)\OOP\TeamProject\TeamKastolarGame\TeamKastolarsProject\TeamKastolarsProject\obj\Debug\TeamKastolarsProject.FormC_haracterCreator.resources
+C:\Users\Ilian Stefanov\Desktop\SoftUni\Level 1 (Fundamental September)\OOP\TeamProject\TeamKastolarGame\TeamKastolarsProject\TeamKastolarsProject\obj\Debug\TeamKastolarsProject.Properties.Resources.resources
+C:\Users\Ilian Stefanov\Desktop\SoftUni\Level 1 (Fundamental September)\OOP\TeamProject\TeamKastolarGame\TeamKastolarsProject\TeamKastolarsProject\obj\Debug\TeamKastolarsProject.csproj.GenerateResource.Cache
+C:\Users\Ilian Stefanov\Desktop\SoftUni\Level 1 (Fundamental September)\OOP\TeamProject\TeamKastolarGame\TeamKastolarsProject\TeamKastolarsProject\obj\Debug\TeamKastolarsProject.exe
+C:\Users\Ilian Stefanov\Desktop\SoftUni\Level 1 (Fundamental September)\OOP\TeamProject\TeamKastolarGame\TeamKastolarsProject\TeamKastolarsProject\obj\Debug\TeamKastolarsProject.pdb
+C:\Users\Ilian Stefanov\Desktop\SoftUni\Level 1 (Fundamental September)\OOP\TeamProject\TeamKastolarGame\TeamKastolarsProject\TeamKastolarsProject\bin\Debug\InstructionsPanel.resx
+C:\Users\Ilian Stefanov\Desktop\SoftUni\Level 1 (Fundamental September)\OOP\TeamProject\TeamKastolarGame\TeamKastolarsProject\TeamKastolarsProject\bin\Debug\InstructionsPanel.cs
+C:\Users\Ilian Stefanov\Desktop\SoftUni\Level 1 (Fundamental September)\OOP\TeamProject\TeamKastolarGame\TeamKastolarsProject\TeamKastolarsProject\bin\Debug\InstructionsPanel.Designer.cs
+C:\Users\Ilian Stefanov\Desktop\SoftUni\Level 1 (Fundamental September)\OOP\TeamProject\TeamKastolarGame\TeamKastolarsProject\TeamKastolarsProject\obj\Debug\TeamKastolarsProject.InstructionsPanel.resources
+C:\Users\Ilian Stefanov\Desktop\SoftUni\Level 1 (Fundamental September)\OOP\TeamProject\TeamKastolarGame\TeamKastolarsProject\TeamKastolarsProject\obj\Debug\TeamKastolarsProject.LoadGameForm.resources
+C:\Users\Ilian Stefanov\Desktop\SoftUni\Level 1 (Fundamental September)\OOP\TeamProject\TeamKastolarGame\TeamKastolarsProject\TeamKastolarsProject\obj\Debug\TeamKastolarsProject.CombatGUI.resources
