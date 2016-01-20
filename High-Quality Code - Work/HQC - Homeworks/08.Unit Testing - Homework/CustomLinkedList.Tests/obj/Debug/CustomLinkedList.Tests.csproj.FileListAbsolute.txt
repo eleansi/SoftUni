@@ -1,0 +1,7 @@
+C:\Users\Ilian Stefanov\Desktop\SoftUni\Level 1 (Fundamental September)\CustomLinkedList\CustomLinkedList.Tests\obj\Debug\CustomLinkedList.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Ilian Stefanov\Desktop\SoftUni\Level 1 (Fundamental September)\CustomLinkedList\CustomLinkedList.Tests\bin\Debug\CustomLinkedList.Tests.dll
+C:\Users\Ilian Stefanov\Desktop\SoftUni\Level 1 (Fundamental September)\CustomLinkedList\CustomLinkedList.Tests\bin\Debug\CustomLinkedList.Tests.pdb
+C:\Users\Ilian Stefanov\Desktop\SoftUni\Level 1 (Fundamental September)\CustomLinkedList\CustomLinkedList.Tests\bin\Debug\CustomLinkedList.dll
+C:\Users\Ilian Stefanov\Desktop\SoftUni\Level 1 (Fundamental September)\CustomLinkedList\CustomLinkedList.Tests\bin\Debug\CustomLinkedList.pdb
+C:\Users\Ilian Stefanov\Desktop\SoftUni\Level 1 (Fundamental September)\CustomLinkedList\CustomLinkedList.Tests\obj\Debug\CustomLinkedList.Tests.dll
+C:\Users\Ilian Stefanov\Desktop\SoftUni\Level 1 (Fundamental September)\CustomLinkedList\CustomLinkedList.Tests\obj\Debug\CustomLinkedList.Tests.pdb
