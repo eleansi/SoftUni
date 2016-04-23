@@ -82,8 +82,8 @@ border-bottom: 1px solid #dbdbdb;
 }
 
 .neighborhood-guides {
-    background-color: #efefef;
-    padding-top: -7%;
+    background-color: #2b9afd;
+    padding-top: 5%;
 }
 
 .neighborhood-guides h1 {
@@ -335,20 +335,52 @@ text-align: center;
 /* end of carousel effects */
 
 
+.contacts {
+  background-color: #efefef;
+}
+
+.name {
+  letter-spacing: 3px;
+}
+.profession {
+  font-weight: bold;
+  letter-spacing: 3px;
+}
+
+.msg {
+  font-size: 18px;
+}
 
 
 
+#social-media-icons img {
+  width: 60px;
+  height: 60px;
+}
+
+#social-media-icons {
+ float: center;
+ padding-top: 7%;
+  
+}
+
+#social-media-icons ul li {
+  display: inline;
+}
 
 
+#social-media-icons img:hover {
+  width: 60px;
+  height: 60px;
+  border-radius: 100%;
+  border: 2px solid white;
+}
 
-
-
-
-
-
-
-
-
-
+.bottom-contacts {
+  background: url('AboutMeBackgroundFlipped.png') #CCC no-repeat left top;
+  width: 100%;
+  height:119px;
+  background-size: 100% 100%;
+}
 
 
