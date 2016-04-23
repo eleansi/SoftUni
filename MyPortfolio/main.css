@@ -1,0 +1,354 @@
+@font-face { font-family: True Lies; src: url('fonts/True Lies Font/True Lies.ttf'); } 
+@font-face { font-family: Caviar Dreams; src: url('fonts/CaviarDreams_Bold.ttf'); }
+@font-face { font-family: Warnock; src: url('fonts/monof55.ttf'); }
+
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+p {
+  margin: 0 0 10px 0;
+}
+
+#nav-line {
+
+/*-webkit-box-shadow: inset 0px 12px 12px 5px rgba(50,121,184,0.43);
+-moz-box-shadow: inset 0px 12px 12px 5px rgba(50,121,184,0.43);
+box-shadow: inset 0px 12px 12px 5px rgba(50,121,184,0.43);*/
+   background-color: #2b9afd;
+
+
+   border-bottom: 0px;
+   position: fixed;
+   top: 0px;
+   width: 100%;
+   z-index: 10020;
+}
+
+#navbar {
+  border-top: 0px;
+}
+.navbar-header {
+  border-bottom: 0px;
+}
+
+#navbar a {
+  float: left;
+  display: inline;
+}
+
+.container-fluid img {
+  min-height: 200px;
+}
+
+#nav-line a {
+    color: white;
+    font-size: 15px;
+    padding: 14px 20px;
+    text-transform: uppercase;
+    font-family: 'Caviar Dreams';
+    transition: color 2s;
+    
+}
+#navbar a:hover {
+  list-style-type: none;
+  color: #000000;
+}
+
+.nav li {
+  display: inline;
+}
+
+.learn-more {
+  background-color: #f7f7f7;
+  border-bottom: 1px solid #dbdbdb;
+  padding-top: 0px;
+}
+
+.learn-more h1 {
+border-bottom: 1px solid #dbdbdb;
+}
+
+.learn-more h3 {
+  font-family: 'Shift', sans-serif;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.learn-more a {
+  color: #00b0ff;
+}
+
+.neighborhood-guides {
+    background-color: #efefef;
+    padding-top: -7%;
+}
+
+.neighborhood-guides h1 {
+ color: #393c3d;
+ font-size: 28px;
+ text-align: center;
+ margin-top: 0px;
+}
+
+.neighborhood-guides p {
+ font-size: 15px;
+ margin-bottom: 13px;
+ text-align: center;
+}
+
+
+.footer {
+height: 400px;
+border-bottom: 1px solid #dbdbdb;
+
+}
+
+
+.footer a {
+color: black;
+font-family: 'Shift', sans-serif;
+font-weight: italic;
+}
+
+.our-staff h1 {
+text-align: center;
+font-family: "calibri", Garamond, 'Comic Sans';
+font-weight: italic;
+}
+
+.our-staff {
+background-color: #efefef;
+border-bottom: 1px solid #dbdbdb;
+}
+
+.learn-more a  {
+color: #000000;
+}
+
+.learn-more h1 {
+text-align: center;
+font-family: "calibri", Garamond, 'Comic Sans';
+font-weight: italic;
+}
+
+.our-staff img {
+width: 200px;
+height: 200px;
+display: block;
+margin: auto;
+border-radius: 100%;
+border: 5px solid #11E8F7;
+}
+
+.our-staff h3 {
+text-align: center;
+ }
+ 
+ .our-staff a {
+    color: #000000;
+ }
+ 
+.our-staff .thumbnail {
+      background-color: #efefef;
+      border-top: 0px;
+      border-bottom: 0px;
+      border-left: 0px;
+      border-right: 0px;
+    }
+
+.footer {
+   -webkit-box-shadow: inset 2px 8px 33px -5px rgba(0,0,0,1);
+   -moz-box-shadow: inset 2px 8px 33px -5px rgba(0,0,0,1);
+   box-shadow: inset 2px 8px 33px -5px rgba(0,0,0,1);
+   width:100%;
+   height: auto;
+   background: url('Blue color.jpg') no-repeat center center fixed;
+}
+
+ .about-me {
+   /*background: url('AboutMeBackground.png') #CCC no-repeat left top; 
+     /*-webkit-box-shadow: inset 0px 3px 5px 4px rgba(0,0,0,0.3);
+    -moz-box-shadow: inset 0px 3px 5px 4px rgba(0,0,0,0.3);
+    box-shadow: inset 0px 3px 5px 4px rgba(0,0,0,0.3);
+    width: 100%;
+    height: auto;
+    display: block;
+
+   background: url('eleansiDesign.jpeg') no-repeat center center fixed;*/
+   /* -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;*/
+    padding-top: 3%;
+    background-color: #2b9afd;
+ }
+ .about-me-bottom {
+  background: url('AboutMeBackground.png') #CCC no-repeat left top;
+  width: 100%;
+  height:119px;
+  background-size: 100% 100%;
+ }
+ 
+ 
+.sliding-underline {
+    font-family: "Halvatica";
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-weight: bold;
+    text-align: center;
+    letter-spacing: 2px;
+    color: #ffffff;
+    padding-bottom: 2%;
+    letter-spacing: -3px;
+    padding-top: 3%;
+ }
+
+.sliding-underline:after {
+  content: '';
+  display: block;
+  margin: auto;
+  height: 3px;
+  width: 0px;
+  background: transparent;
+  transition: width .5s ease, background-color .5s ease;
+}
+.sliding-underline:hover:after   {
+    width: 50%;
+    background: white;
+}
+
+.about-me p {
+  font-family: "calibri", Garamond, 'Comic Sans';
+  color: #ffffff;
+  margin-bottom: 0px;
+  font-size: 18px;
+  text-align: center;
+  padding-bottom: 5%;
+}
+
+
+.carousel-inner h1 {
+    font-family:"calibri", Garamond, 'Comic Sans';
+    font-size: 40px;
+    text-transform: uppercase;
+    color: #ffffff;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    text-shadow: 2px 2px 10px #000000;
+    width: auto;
+}
+
+
+.carousel-inner #slider-pic1 {
+  min-height: 350px;
+}
+
+#slider-pic1 {
+  height: 50vw;
+}
+
+#slider-pic2 {
+  height: 50vw;
+}
+.carousel-inner #slider-pic2 {
+  min-height: 350px;
+}
+
+.carousel-inner p {
+  color: #ffffff;
+    font-family: "calibri", Garamond, 'Comic Sans';
+    font-size: 25px;
+    font-weight: bold;
+    text-shadow: 2px 2px 10px #000000;
+     
+}
+
+.carousel-inner .carousel-caption {
+   padding-bottom: 15%;
+}
+
+.carousel-indicators{
+  margin-bottom: -10px;
+}
+
+
+/*
+  Bootstrap Carousel Fade Transition (for Bootstrap 3.3.x)
+  CSS from:       http://codepen.io/transportedman/pen/NPWRGq
+  and:            http://stackoverflow.com/questions/18548731/bootstrap-3-carousel-fading-to-new-slide-instead-of-sliding-to-new-slide
+  Inspired from:  http://codepen.io/Rowno/pen/Afykb 
+*/
+.carousel-fade .carousel-inner .item {
+  opacity: 0;
+  transition-property: opacity;
+}
+
+.carousel-fade .carousel-inner .active {
+  opacity: 1;
+}
+
+.carousel-fade .carousel-inner .active.left,
+.carousel-fade .carousel-inner .active.right {
+  left: 0;
+  opacity: 0;
+  z-index: 1;
+}
+
+.carousel-fade .carousel-inner .next.left,
+.carousel-fade .carousel-inner .prev.right {
+  opacity: 1;
+}
+
+.carousel-fade .carousel-control {
+  z-index: 2;
+}
+
+/*
+  WHAT IS NEW IN 3.3: "Added transforms to improve carousel performance in modern browsers."
+  Need to override the 3.3 new styles for modern browsers & apply opacity
+*/
+@media all and (transform-3d), (-webkit-transform-3d) {
+    .carousel-fade .carousel-inner > .item.next,
+    .carousel-fade .carousel-inner > .item.active.right {
+      opacity: 0;
+      -webkit-transform: translate3d(0, 0, 0);
+              transform: translate3d(0, 0, 0);
+    }
+    .carousel-fade .carousel-inner > .item.prev,
+    .carousel-fade .carousel-inner > .item.active.left {
+      opacity: 0;
+      -webkit-transform: translate3d(0, 0, 0);
+              transform: translate3d(0, 0, 0);
+    }
+    .carousel-fade .carousel-inner > .item.next.left,
+    .carousel-fade .carousel-inner > .item.prev.right,
+    .carousel-fade .carousel-inner > .item.active {
+      opacity: 1;
+      -webkit-transform: translate3d(0, 0, 0);
+              transform: translate3d(0, 0, 0);
+    }
+}
+
+/* end of carousel effects */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
